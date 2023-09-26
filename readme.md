@@ -8,9 +8,6 @@ npm i
 ```
 
 ## Commands
-
-you can run:
-
 ### `npm start`
 
 - It will run the app with node
