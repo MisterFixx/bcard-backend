@@ -1,0 +1,9 @@
+{
+    "NODE_ENV": "production",
+    "PORT": 8080,
+    "TOKEN_GENERATOR": "jwt",
+    "LOGGER": "morgan",
+    "DB": "MONGODB",
+    "CONNECTION_STRING": "mongodb://localhost:27017/bcard",
+    "JWT_KEY": "my_private_key"
+}
